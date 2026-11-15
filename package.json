@@ -1,0 +1,13 @@
+{
+  "name": "jenah-website",
+  "version": "1.0.0",
+  "description": "Jenah (جناح) bilingual Arabic/English nonprofit website, a single static HTML file.",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "dev": "npx --yes serve . -l 3000"
+  },
+  "keywords": ["jenah", "nonprofit", "arabic", "rtl", "static-site"],
+  "license": "UNLICENSED"
+}
